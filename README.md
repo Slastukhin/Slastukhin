@@ -11,14 +11,14 @@
     <li>Знание HTML5, CSS3, верстка сайтов</li>
     <li>Кроссбраузерная, адаптивная верстка для мобильных устройств</li>
     <li>Pixel Perfect</li>
-    <li style="display: flex; align-atems: center;">Препроцессор SCSS <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="32"/></li>
-    <li>Gulp сборка ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)</li>
-    <li>Шаблонизатор Pug ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</li>
+    <li>Препроцессор SCSS <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="16"/></li><img src="" height="16"/>
+    <li>Gulp сборка <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" height="16"/></li>
+    <li>Шаблонизатор Pug <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" height="16"/></li>
     <li>BEM naming</li>
-    <li>Основы JavaScript, jQuery, PHP ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</li>
+    <li>Основы JavaScript, jQuery, PHP <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="16"/><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="16"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="16"/></li>
     <li>Методологии Agile и Waterfall</li>
     <li>BPMN 2.0</li>
-    <li>Figma, знаниние UX и UI принципов ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</li>
+    <li>Figma, знаниние UX и UI принципов <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="16"/></li>
 </ul>
 <h3>В том числе базово ознакомлен:</h3>
 <ul style="list-style-type: disc; padding-left: 20px;">
