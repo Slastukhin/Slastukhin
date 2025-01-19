@@ -8,7 +8,7 @@
 </ul>
 <h3>Навыки:</h3>
 <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Знание HTML5, CSS3, верстка сайтов</li>
+    <li>Знание HTML5, CSS3, верстка сайтов <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="16"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="16"/></li>
     <li>Кроссбраузерная, адаптивная верстка для мобильных устройств</li>
     <li>Pixel Perfect</li>
     <li>Препроцессор SCSS <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="16"/></li>
