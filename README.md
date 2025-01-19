@@ -11,7 +11,7 @@
     <li>Знание HTML5, CSS3, верстка сайтов</li>
     <li>Кроссбраузерная, адаптивная верстка для мобильных устройств</li>
     <li>Pixel Perfect</li>
-    <li>Препроцессор SCSS <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="32"/></li>
+    <li style="display: flex; align-atems: center;">Препроцессор SCSS <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="32"/></li>
     <li>Gulp сборка ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)</li>
     <li>Шаблонизатор Pug ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</li>
     <li>BEM naming</li>
