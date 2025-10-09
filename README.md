@@ -24,3 +24,8 @@
     <li>Курс "Основы алгоритмизации и программирования". Python</li>
     <li>Курс "Объектно-ориентированное программирование". Python</li>
 </ul>
+<h3>Пройденные курсы:</h3>
+<ul style="list-style-type: disc; padding-left: 20px;">
+    <li><a href="https://stepik.org/certificate/6d9cbb08ae69985bc9444d2ed9ef2c0b7cf2bd30.pdf">Гибкие методологии управления проектами с Аспро.Agile</a></li>
+    <li><a href="https://stepik.org/certificate/b0a8c9ad7eaddfe680fc910c71e218a7da3634f8.pdf">Управление проектами. От теории к практике</a></li>
+</ul>
